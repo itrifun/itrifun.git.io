@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: "Ivan Trifunovic"
   avatar: bio-photo.jpg
-  bio: "This website is work in progress."
+  bio: "This website is work-in-progress."
   email: noone@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: PDX011
