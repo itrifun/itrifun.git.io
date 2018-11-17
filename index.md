@@ -13,4 +13,4 @@ I am creating this content at a workshiop at Oregon Health & Science University.
 
 ! [Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
 
-! [](/images/project idea - patio.jpg)
+! [](images/project_idea_-_patio.jpg)
