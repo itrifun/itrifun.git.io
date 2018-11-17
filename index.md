@@ -12,4 +12,5 @@ I am creating this content at a workshiop at Oregon Health & Science University.
 - Academia
 
 ![Jetpacktocat[(https://octodex.github.com/images/jetpacktocat.png)
+
 ! [](images/project idea - patio.jpg)
