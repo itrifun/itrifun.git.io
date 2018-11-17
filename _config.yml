@@ -6,7 +6,7 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ivan Trifunovic
+  name: *Ivan Trifunovic*
   avatar: bio-photo.jpg
   bio: "This website is work in progress."
   email: noone@ohsu.edu
