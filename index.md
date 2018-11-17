@@ -12,4 +12,4 @@ I am creating this content at a workshiop at Oregon Health & Science University.
 - Academia
 
 
-! [Example photo, test upload.](images/project idea - patio.jpg)
+! [](images/project idea - patio.jpg)
