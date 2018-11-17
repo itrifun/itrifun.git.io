@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am creating content at a workshiop at Oregon Health & Science University.
+I am creating this content at a workshiop at Oregon Health & Science University.
 
 ## Current Interests and Projects:
 
