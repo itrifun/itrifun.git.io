@@ -11,6 +11,6 @@ I am creating this content at a workshiop at Oregon Health & Science University.
 - [GitHub Pages](http://github.io)
 - Academia
 
-![Jetpacktocat[(https://octodex.github.com/images/jetpacktocat.png)
+! [Jetpacktocat[(https://octodex.github.com/images/jetpacktocat.png)
 
 ! [](images/project idea - patio.jpg)
