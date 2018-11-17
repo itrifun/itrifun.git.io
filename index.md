@@ -7,6 +7,6 @@ I am creating this content at a workshiop at Oregon Health & Science University.
 
 ## Current Interests and Projects:
 
-- *Website Design*
+- **Website Design**
 - [GitHub Pages](http://github.io)
 - Academia
